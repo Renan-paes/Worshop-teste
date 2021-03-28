@@ -1,4 +1,4 @@
-# Worshop-teste
+# Workshop-teste
 https://renan-paes.github.io/Worshop-teste/
 
 Esse projeto foi para tentar recriar um cenário muito comum que são as páginas de coleta de dados, podendo ser e-mails, cidades, nomes, sexos e etc.
