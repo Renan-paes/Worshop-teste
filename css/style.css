@@ -94,7 +94,7 @@ footer{
     font-size: 24px;
 }
 
-@media screen and (max-width: 470px){
+@media screen and (max-width: 490px){
 
     .picture{
         display:inline;
@@ -107,13 +107,13 @@ footer{
         
         position: relative;
         display: inline;
-        box-sizing: border-box;
+    
 
     }
     h3{
-        position: relative;
-        display: inline-block;
-        margin-right: 30px;
+        position:relative;
+        display: block;
+        margin:auto;
         
        
      
@@ -125,6 +125,24 @@ footer{
        font-family: Verdana,Tahoma, sans-serif;
         display: block;
     }
-    
-
 }
+    @media screen and (max-width: 245px){
+
+    .description{
+            margin:auto;
+        }
+    .description h3{
+            position:relative;
+            font-size:20px;
+            display:inline-block;
+            margin:auto;
+    
+        }
+    .doble{
+        margin-top: 10px;
+        position: relative;
+        text-align: justify;
+        font-size: 13px;
+        word-spacing:-1px;
+    }
+    }
